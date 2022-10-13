@@ -1,0 +1,39 @@
+body{
+    background-color: lightcyan;
+    
+}
+img {
+    width:300px;
+    display: block;
+    float: left;
+    margin-right: 20px;
+}
+.osm {
+    width: 80%;
+    padding: 30px;
+    border: 1px solid black;
+    border-radius: 20px;
+    
+}
+h1 {
+    text-align: center;
+    font-size: 80px;
+    font-family: "Sofia", sans-serif;
+    margin-top: -10px;
+}
+h2 {
+    font-size: 40px;
+    font-family:"Trirong", sans-serif;
+}
+p {
+    font-size: 18px;
+}
+#para2,#para4{
+    color: blueviolet;
+}
+.graph{
+    color: rgba(9, 24, 241, 0.945);
+}
+p:nth-child(odd){
+    background-color: aquamarine;
+}
